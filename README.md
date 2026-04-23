@@ -4,10 +4,10 @@ API REST para gerenciamento de pedidos, desenvolvida com Spring Boot aplicando c
 
 ## Integrantes
 
-- Bruno Gabriel Silva Dominicheli
-- Gabriel Gouvea Marques de Oliveira
-- Miguel Kapicius Caires
-- Thiago Ferreira Oliveira
+- 554981 - Bruno Gabriel Silva Dominicheli
+- 555528 - Gabriel Gouvea Marques de Oliveira
+- 556198 - Miguel Kapicius Caires
+- 555608 - Thiago Ferreira Oliveira
 
 ## Tecnologias
 
